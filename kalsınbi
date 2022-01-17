@@ -1,0 +1,2 @@
+	$sonuc["urun_id"].' '.$sonuc["urun_ad"].' '.$sonuc["urun_fiyat"].' '.
+	$sonuc["mevcut_miktar"].' '.$sonuc["urun_uretim_tarihi"].' '.$sonuc["urun_skt"].' '.'<br>'; }
